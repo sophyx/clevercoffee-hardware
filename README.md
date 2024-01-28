@@ -1,3 +1,7 @@
+# Fork from [clevercoffee-hardware](https://github.com/rancilio-pid/clevercoffee-hardware)
+
+Forked because I want to improve the routing of the minimal PCB. Original Readme:
+
 # CleverCoffee Hardware 
 
 <br>
